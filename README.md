@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1315c107-2ef3-40e6-8e51-1c96d566d220)# IMAGE-TRANSFORMATIONS
+# IMAGE-TRANSFORMATIONS
 
 
 ## Aim
@@ -268,6 +268,7 @@ show_image(cropped_image)
 ![image](https://github.com/user-attachments/assets/8629648f-a4b5-441d-8898-8af6b3fb07b9)
 
 <br>
+
 ![image](https://github.com/user-attachments/assets/9ec66c8d-d443-4d13-876d-54794527dc4a)
 
 
