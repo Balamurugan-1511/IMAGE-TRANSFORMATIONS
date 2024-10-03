@@ -259,6 +259,7 @@ show_image(cropped_image)
 ![image](https://github.com/user-attachments/assets/cc374ac6-31d4-429f-a200-fc5836db6cb4)
 
 <br>
+
 ![image](https://github.com/user-attachments/assets/7221703a-3cef-41c7-8d7b-7e2d85072683)
 
 
